@@ -7,7 +7,7 @@ install nodejs first
 then run " npm install vite " on terminal
 
 and create a json packge using "npm init -y" 
-in json file change script to 
+, and in this json file change script to 
 
 "dev":"vite"
 
